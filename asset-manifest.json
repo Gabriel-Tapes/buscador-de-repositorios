@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/buscador-de-repositorios/static/css/main.cf6e5d0f.css",
-    "main.js": "/buscador-de-repositorios/static/js/main.e9e574d6.js",
+    "main.css": "/buscador-de-repositorios/static/css/main.256c106c.css",
+    "main.js": "/buscador-de-repositorios/static/js/main.3365c10b.js",
     "index.html": "/buscador-de-repositorios/index.html",
-    "main.cf6e5d0f.css.map": "/buscador-de-repositorios/static/css/main.cf6e5d0f.css.map",
-    "main.e9e574d6.js.map": "/buscador-de-repositorios/static/js/main.e9e574d6.js.map"
+    "main.256c106c.css.map": "/buscador-de-repositorios/static/css/main.256c106c.css.map",
+    "main.3365c10b.js.map": "/buscador-de-repositorios/static/js/main.3365c10b.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf6e5d0f.css",
-    "static/js/main.e9e574d6.js"
+    "static/css/main.256c106c.css",
+    "static/js/main.3365c10b.js"
   ]
 }
