@@ -28,4 +28,9 @@ export const Repositorio = styled.a`
         font-size: 24px;
         background-color: rgba(0, 0, 0, 0.8);
     }
+
+
+    @media (max-width: 750px) {
+        width: 90%
+    }
 `

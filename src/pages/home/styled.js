@@ -11,6 +11,7 @@ export const Main = styled.main`
 
 export const Mensagem = styled.p`
     color: whitesmoke;
+    text-align: center;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
     font-weight: 600;
 `;
@@ -23,6 +24,10 @@ export const Usuario = styled.input`
     border-radius: 10px 0px 0px 10px;
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.6);
     font-size: 14px;
+
+    @media (max-width: 400px) {
+        min-width: 40%;
+    }
 `;
 
 export const Enviar = styled.button`
