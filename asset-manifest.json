@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buscador-de-repositorios/static/css/main.cf6e5d0f.css",
+    "main.js": "/buscador-de-repositorios/static/js/main.e9e574d6.js",
+    "index.html": "/buscador-de-repositorios/index.html",
+    "main.cf6e5d0f.css.map": "/buscador-de-repositorios/static/css/main.cf6e5d0f.css.map",
+    "main.e9e574d6.js.map": "/buscador-de-repositorios/static/js/main.e9e574d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf6e5d0f.css",
+    "static/js/main.e9e574d6.js"
+  ]
+}
