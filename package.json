@@ -2,7 +2,7 @@
   "name": "gamagit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gabriel-tapes.github.io/hiring-coders",
+  "homepage": "https://gabriel-tapes.github.io/buscador-de-repositorios",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
